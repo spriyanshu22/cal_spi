@@ -1,8 +1,7 @@
 import React from 'react'
-import Home from '../Components/Home/index'
-
+import Sem2 from '../../../Components/Sem2'
 const index = () => {
-  return <Home />
+  return <Sem2 />
 }
 
 export default index
